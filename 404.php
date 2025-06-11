@@ -14,6 +14,7 @@
     <h2 class="content-title-left">
         404 NOT FOUND
         <span>お探しのページはございませんでした</span>
+        <span>市川編集aaaaaaaaaa</span>
     </h2>
     <p>サイトマップからお探しのページを見つけられない場合、お気軽にお問い合わせくださいませ。</p>
 </section>
